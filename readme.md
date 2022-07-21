@@ -1,6 +1,4 @@
-# Exercice 2: Culture Quiz ❓
-
-## Le Sujet
+## Le sujet
 
 Pour cet exercice, tu dois rendre fonctionnelle une page de quiz. Pour cela, tu dervas écrire un script JS (Javascript) en complétant le fichier script.js du projet.
 
